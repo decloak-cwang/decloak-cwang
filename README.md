@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ```mermaid
 graph TD;
-  A-->B;
+  Start-->End;
   A-->C;
   B-->D;
   C-->D;
